@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://fb.com/muneeb prvaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muneeb prvaiz" height="30" width="40" /></a>
 <a href="https://instagram.com/muneeb91232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muneeb91232" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/CODINGisFUN-xz2em" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingisfun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CODINGisFUN-xz2em" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingisfun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
