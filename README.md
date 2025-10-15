@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Mobile Engineer with **US Clients**
 
-- 🌱 I’m currently Developing and Mentaining Apps using different mobile stacks while following the best practices and clean code
+- 🌱 Developing and Mentaining Apps using different mobile stacks while following the best practices and clean code
 
 - 👨‍💻 All of my projects are available at [https://muneeb912-cmd.github.io/Portfolio/](https://muneeb912-cmd.github.io/Portfolio/)
 
