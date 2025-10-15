@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb912-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb912-cmd" /> </p>
 
-- 🔭 I’m currently working on Android Developement **Grocer App**
+- 🔭 I’m currently working as a Mobile Engineer with **US Clients**
 
-- 🌱 I’m currently learning App development with React Native while following clean architecture **React Native**
+- 🌱 I’m currently Developing and Mentaining Apps using different mobile stacks while following the best practices and clean code
 
 - 👨‍💻 All of my projects are available at [https://muneeb912-cmd.github.io/Portfolio/](https://muneeb912-cmd.github.io/Portfolio/)
 
-- 💬 Ask me about **Android Native, React, Firebase, MERN, Java, Kotlin, Python**
+- 💬 Ask me about **Android (JAVA, Kotlin), React Native, iOS (Objective-C), Firebase, MERN, Java, Kotlin, Python**
 
 - 📫 How to reach me **emanmuneeb1@gmail.com**
 
